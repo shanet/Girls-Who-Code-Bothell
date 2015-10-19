@@ -1,0 +1,17 @@
+.link_info {
+  margin-top: 20px;
+
+  p {
+    margin-bottom: 10px;
+  }
+
+  .go_to_link {
+    display: block;
+    width: 150px;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    background-color: $brand_color;
+    box-shadow: 1px 1px 0px 1px #E8E8E8;
+  }
+}

@@ -1,0 +1,13 @@
+- title: Canvas
+  link: https://girlswhocode.instructure.com/courses/283
+  description: Canvas is a Learning Management System that is the center of education in a Girls Who Code Club. Assignments,
+    pre/post Tests, and more are all stored in Canvas for accessibility and ease.
+
+- title: Codesters
+  link: https://www.codesters.com/
+  description: A self-paced environment for learning Python and creating personal projects. Used for level 1 assignments.
+    See an instructor if you do not have a Codesters account yet.
+
+- title: Khan Academy
+  link: https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy
+  description: A self-paced environment for learning JavaScript and learning through video resources. Used for level 2 assignments.
