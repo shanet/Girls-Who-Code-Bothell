@@ -1,0 +1,16 @@
+.level {
+  margin-top: 20px;
+
+  > div {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  img {
+    width: 125px;
+  }
+
+  p {
+    margin-top: 10px;
+  }
+}
