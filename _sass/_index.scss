@@ -37,10 +37,14 @@
 }
 
 #welcome {
-  padding: 20px 0;
+  padding: 20px 0 50px 0;
 
   > h1 {
     font-size: 35px;
     color: #E22967;
+  }
+
+  p {
+    margin-bottom: 10px;
   }
 }
