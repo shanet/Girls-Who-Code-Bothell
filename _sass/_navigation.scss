@@ -1,0 +1,93 @@
+.logo img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#navbar {
+  display: none;
+  min-height: 110px;
+
+  .logo {
+    float: left;
+    padding: 10px;
+    height: 75px;
+  }
+
+  #nav_toggle {
+    float: right;
+    margin: 35px 15px 10px 15px;
+    padding: 10px;
+
+    border: 1px solid rgba(200, 200, 200, 0.4);
+    background: none;
+    border-radius: 4px;
+
+    span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      border-radius: 1px;
+      background-color: #ccc;
+      box-sizing: border-box;
+    }
+
+    span:not(:last-child) {
+      margin-bottom: 5px;
+    }
+  }
+
+  #nav_toggle:hover {
+    background-color: #ddd;
+    cursor: pointer;
+  }
+
+  .content {
+    margin: 10px 30px;
+
+    a {
+      display: block;
+      padding: 10px;
+      color: $nav_link_color;
+      border-bottom: 1px #ccc solid;
+    }
+  }
+
+  .content.collapsed {
+    display: none;
+  }
+}
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  background: #f8f8f8;
+  border-top: $top_border_height solid $brand_color;
+
+  .logo {
+    margin: 10px 20px;
+  }
+
+  ul {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+
+    li {
+      padding: 5px;
+      padding-left: 30px;
+    }
+
+    li:hover {
+      color: #000;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    a {
+      color: $nav_link_color;
+    }
+  }
+}

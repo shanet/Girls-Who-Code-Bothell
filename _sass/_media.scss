@@ -1,0 +1,25 @@
+@media (max-width: $tablet) {
+  #page {
+    padding-left: 0;
+  }
+
+  #sidebar {
+    display: none;
+  }
+
+  #navbar {
+    display: block !important;
+  }
+
+  #showcase {
+    height: 75%;
+  }
+}
+
+@media screen and (max-width: $phone) {
+  .container {
+    width: auto;
+    margin: 0;
+    padding: 15px 15px 0 15px !important;
+  }
+}
