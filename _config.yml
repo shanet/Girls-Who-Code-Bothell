@@ -3,14 +3,6 @@ author: GWC Bothell
 baseurl:
 description: Girls Who Code at the Bothell, WA Library is an after school club that teaches computer science to 6th-12th grade girls.
 
-##Make sure to edit the above fields, especially for disqus.
-
-
-#highlighter: pygments
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["tables"]
-
 defaults:
   - scope:
       path: ""
