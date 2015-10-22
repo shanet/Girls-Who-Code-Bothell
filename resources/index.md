@@ -12,7 +12,7 @@ title: Resources
 
     <ul>
       {% for slide in site.data.slides %}
-        <li><a href="{{ slide.link }}">Day {{ forloop.index }}</a></li>
+        <li><a href="{{ slide.link }}">Week {{ forloop.index }}</a></li>
       {% endfor %}
     </ul>
 
