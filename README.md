@@ -1,5 +1,4 @@
-Girls Who Code - Bothell
-========================
+[](assets/images/logo_small.png)
 
 Jekyll source for http://gwcbothell.club.
 
