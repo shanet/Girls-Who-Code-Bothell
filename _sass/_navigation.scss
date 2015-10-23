@@ -83,10 +83,10 @@
     li:hover {
       color: #000;
       background: #fff;
-      cursor: pointer;
     }
 
     a {
+      display: block;
       color: $nav_link_color;
     }
   }
