@@ -14,6 +14,10 @@
   #showcase {
     height: 75%;
   }
+
+  #contact > iframe {
+    height: 710px;
+  }
 }
 
 @media screen and (max-width: $phone) {
@@ -21,5 +25,9 @@
     width: auto;
     margin: 0;
     padding: 0;
+  }
+
+  #contact > iframe {
+    height: 800px;
   }
 }
