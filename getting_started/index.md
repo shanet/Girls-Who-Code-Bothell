@@ -34,6 +34,14 @@ title: Getting Started
 
     <p>In the event of a cancellation or other important update, we'll send out a text message to all club members and their parents, but only if you sign up for them!</p>
 
+    <h1>Step 5</h1>
+
+    <a href="https://www.codesters.com">Sign up for Codesters</a>
+
+    <p>Codesters is used for level 1 modules and teaches basic Python programming in an online environment.</p>
+
+    <p>Class key: <code>0a9d1a</code></p>
+
     <h1>That's it!</h1>
     <p>Join in with the rest of the club or ask an instructor for what to do next.</p>
   </div>
