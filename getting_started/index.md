@@ -8,7 +8,7 @@ title: Getting Started
   </div>
 
   <div class="content">
-    <p>If this is your first time at a club meeting, then this is the page for you. There are a few housekeeping items we ask you complete before getting started on the coding.</p>
+    <p>If this is your first time at a club meeting, then this is the page for you. There are a few housekeeping items we ask you to complete before getting started on the coding.</p>
 
     <h1>Step 0</h1>
 
@@ -20,22 +20,19 @@ title: Getting Started
     </ul></p>
 
     <h1>Step 1</h1>
-    <a href="https://docs.google.com/forms/d/1T8zHskTHVGXuT-8hePNO-LvdonS9-posLkIzSMIlTiU/viewform">Fill out the GWC research survey</a>
+    <a href="https://girlswhocode.com/clubpresurvey">Fill out the GWC research survey</a>
 
-    <p>It should take around 15-20 minutes. There are no wrong answers; it's just a way for GWC to get a feel of your attitudes towards and knowledge of Computer Science before your time with the club.</p>
+    <p>It should take around 10 minutes. There are no wrong answers; it's just a way for GWC to get a feel of your attitudes towards and knowledge of Computer Science before your time with the club.</p>
 
     <h1>Step 2</h1>
-    <p>Print a copy of <a href="https://docs.google.com/document/d/1wuNWpWTtNYJT-iwnPEUGSKrhKEdWZndB-phR-LMs2yU/edit">the Club Pledge</a>, read, sign, and hand it in to an instructor.</p>
+    Sign up for important club updates by either:
 
-    <h1>Step 3</h1>
-    <p>Print a copy of <a href="https://drive.google.com/file/d/0B9DaxkWbFZbTazgwM1cybmxXc00/view">the Media Release Form</a>, have it signed by a parent, and return it to an instructor.</p>
+    <ul>
+      <li>Sending a text message to <code>81010</code> with the message <code>@f3973b</code></li>
+      <li>Going to <a href="https://www.remind.com/join/f3973b">https://www.remind.com/join/f3973b</a></li>
+    </ul>
 
-    <h1>Step 4</h1>
-    <a href="https://girlswhocode.instructure.com/enroll/LE3DBL">Sign up for Canvas</a>
-
-    <p>Canvas is a Learning Management System that is the center of education in a Girls Who Code Club. Assignments, pre/post Tests, and more are all stored in Canvas for accessibility and ease.</p>
-
-    <p>If you are a parent signing up a student, please ensure that your student knows the email address and password of her Canvas account so she can get to the assignments!</p>
+    <p>In the event of a cancellation or other important update, we'll send out a text message to all club members and their parents, but only if you sign up for them!</p>
 
     <h1>That's it!</h1>
     <p>Join in with the rest of the club or ask an instructor for what to do next.</p>
