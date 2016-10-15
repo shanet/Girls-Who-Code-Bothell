@@ -1,0 +1,41 @@
+- title: Fashion
+  image: level_1.png
+  prerequisites: None
+  language: Scratch
+  description: You will learn how to use Core4 CS Concepts to animate and dress your favorite characters.
+  likes:
+    - Imagining outfits and patterns
+    - Drawing
+
+- title: Storytelling
+  image: level_1.png
+  prerequisites: None
+  language: Python
+  description: You will learn how to use Core4 CS Concepts to create an illustrated story.
+  likes:
+    - Creative Writing
+
+- title: Game Development
+  image: level_2.png
+  prerequisites: None
+  language: Actimator
+  description: You will learn how to use Core4 CS Concepts to quickly create sharable games.
+  likes:
+    - Mobile games
+    - Physics
+
+- title: Digital Art
+  image: level_3.png
+  prerequisites: None
+  language: JavaScript
+  description: You will learn to use the Core4 CS Concepts to create digital pictures and interactive art.
+  likes:
+    - Drawing
+
+- title: Music
+  image: level_3.png
+  prerequisites: None
+  language: Python or JavaScript
+  description: You will learn to use the Core4 CS Concepts to create your own beats and songs.
+  likes:
+    - Making music in GarageBand.

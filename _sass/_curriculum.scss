@@ -1,5 +1,11 @@
-.level {
-  margin-top: 20px;
+p {
+  margin: 10px 0;
+}
+
+.activity_set {
+  margin-bottom: 20px;
+  overflow: hidden;
+  white-space: nowrap;
 
   > div {
     display: inline-block;

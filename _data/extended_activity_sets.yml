@@ -1,0 +1,60 @@
+- title: Web Development
+  image: level_3.png
+  prerequisites: Familiarity with the Core4 in JavaScript
+  language: HTML, CSS, JavaScript, jQuery
+  description: You will create a portfolio page and a slideshow page while learning the basics of HTML, CSS, JavaScript, and jQuery.
+  likes:
+    - Customizing your Tumblr page
+
+- title: Databases
+  image: level_3.png
+  prerequisites: Familiarity with the Core4
+  language: SQL
+  description: You will learn how to put information in databases, and perform complex queries. You will use a dataset that interests you.
+  likes:
+    - Organization
+    - Anything that has lots of information you'd like to sort easily
+
+- title: Logic Gates in Logic Lab
+  image: level_3.png
+  prerequisites: Familiarity with the Core4
+  language: N/A
+  description: You learn the building blocks of computers, creating simulations of logic gates.
+  likes:
+    - Knowing how things work
+    - Logic
+
+- title: Circuits and Arduino in Circuits.io
+  image: level_3.png
+  prerequisites: Familiarity with the Core4
+  language: C++
+  description: You work with a circuit and Arduino free online emulator to learn about hardware-software interaction.
+  likes:
+    - Learning how electronic things work
+    - Programming physical objects
+
+- title: Functional Programming in WeScheme
+  image: level_3.png
+  prerequisites: You are currently enrolled in or have completed either AP Computer Science A or AP Computer Science Principles.
+  language: DrRacket (Scheme variant)
+  description: You learn functional programming by editing images on DrRacket.
+  likes:
+    - Manipulating images
+    - Learning new ways to understand programming
+
+- title: Algorithms
+  image: level_3.png
+  prerequisites: Familiarity with Core4 in JavaScript
+  language: JavaScript
+  description: You learn some basic algorithms that are used to solve common problems, like searching or sorting data in a list.
+  likes:
+    - Figuring out the best way to do something
+
+- title: Object-Oriented Programming
+  image: level_3.png
+  prerequisites: Familiarity with Core4 in JavaScript
+  language: JavaScript
+  description: You learn how to create objects in JavaScript and why they’re useful. You create codes to make and break.
+  likes:
+    - Breaking secret codes
+    - Learning new ways to think about programs
