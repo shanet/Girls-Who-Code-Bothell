@@ -32,8 +32,8 @@ title: Getting Started
 
     <p><strong>Useful codes:</strong>
         <ul>
-            <li>The club ID number is <code>C-000003655</code></li>
-            <li>The join code for canvas is <code>CYBCF4</code></li>
+            <li>Cub ID number: <code>C-000003655</code></li>
+            <li>Canvas join code:<code>CYBCF4</code></li>
         </ul>
     </p>
 
